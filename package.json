@@ -1,6 +1,6 @@
 {
   "name": "house-of-movies",
-  "homepage" : "http://poojasahore.github.io/house-of-movies-React",
+  "homepage": "http://poojasahore.github.io/house-of-movies-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,5 +16,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
